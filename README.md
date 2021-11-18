@@ -1,7 +1,7 @@
-## 🚧 🚧 Em construção.... 🚧 🚧 
+## 🚧 Em construção.... 🚧
 <br>
 
-## **-- Olá!** 👋 ..  **Muito Prazer! --** 🤗 🤝
+## **-- Olá!!!** **Muito Prazer! --** 🤗 🤝
 <br>
 
 # **Me chamo Regislaine Regis**<br>
