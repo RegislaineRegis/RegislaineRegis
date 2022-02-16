@@ -1,8 +1,5 @@
 <img src="{https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white}" />
 
-## 🚧 Em construção.... 🚧
-<br>
-
 ## **-- Olá!!!** **Muito Prazer! --** 🤗 🤝
 <br>
 
