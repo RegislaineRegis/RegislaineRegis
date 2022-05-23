@@ -146,8 +146,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 20-1: _Docker Utiizando Conteiners_
 - [x] 20-2: _Introdução a SQL_
-- [] 20-3: _Fundamentos SQL, JOINS e Normalização_
-- [] 20-4: _Introução ao Desenvolvimento Web com Node.js_
+- [ ] 20-3: _Fundamentos SQL, JOINS e Normalização_
+- [ ] 20-4: _Introução ao Desenvolvimento Web com Node.js_
 
 
 
