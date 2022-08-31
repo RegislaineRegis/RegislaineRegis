@@ -5,6 +5,11 @@
 
 # **Me chamo Regislaine Regis**<br>
 
+
+- 🔭 Atualmente estou passando por uma transição de carreira;
+- 🌱 Em desenvolvimento: Desenvolvedora Web Full stack - React.js | Javascript | Redux | ContextAPI | Docker | RESTful API | Node.js | MySQL na Trybe;
+- 📫 Contate-me no e-mail: nanafidelis@gmail.com;
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/RegislaineRegis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
