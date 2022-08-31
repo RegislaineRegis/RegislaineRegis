@@ -5,9 +5,11 @@
 
 # **Me chamo Regislaine Regis**<br>
 
-Atualmente estou passando por uma transição de carreira;
-seedling Estudando React,;
-mailbox Contate-me no e-mail: nanafidelis@gmail.com;
+<div align="center">
+  <a href="https://github.com/RegislaineRegis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RegislaineRegis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegislaineRegis&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
 <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
 <img alt="HTML" align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
