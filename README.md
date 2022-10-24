@@ -8,7 +8,8 @@
 
 - 🔭 Atualmente estou passando por uma transição de carreira;
 - 🌱 Em desenvolvimento: Desenvolvedora Web Full stack - React.js | Javascript | Redux | ContextAPI | Docker | RESTful API | Node.js | MySQL na Trybe;
-- 📫 Contate-me no e-mail: nanafidelis@gmail.com;
+- 📫 Como entrar em contato comigo: nanafidelis@gmail.com;
+- ⚡ Curiosidade: Sou apaixonada por café e um animalzinho: Minha unica filha se chama Amora, uma buldogue inglês dorminhoca
 
 ### Socials
 
