@@ -11,11 +11,6 @@
 - 📫 Como entrar em contato comigo: nanafidelis@gmail.com;
 - ⚡ Curiosidade: Sou apaixonada por café e um animalzinho: Minha unica filha se chama Amora, uma buldogue inglês dorminhoca
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/RegislaineRegis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<br>
-
 ### Skills
 <div align="center">
   <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
@@ -38,6 +33,10 @@
 </div>
 <br>
 <br>
+<br>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/RegislaineRegis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <br>
 
 <div align="center">
