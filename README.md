@@ -6,8 +6,8 @@
 # **Me chamo Regislaine Regis**<br>
 
 
-- 🔭 Atualmente estou passando por uma transição de carreira;
-- 🌱 Em desenvolvimento: Desenvolvedora Web Full stack - React.js | Javascript | Redux | ContextAPI | Docker | RESTful API | Node.js | MySQL na Trybe;
+- 🔭 Passei por uma transição de carreira;
+- 🌱 Desenvolvedora Web Full stack Jr. - React.js | Javascript | Redux | ContextAPI | Docker | RESTful API | Node.js | MySQL na Trybe;
 - 📫 Como entrar em contato comigo: nanafidelis@gmail.com;
 - ⚡ Curiosidade: Sou apaixonada por café e um animalzinho: Minha unica filha se chama Amora, uma buldogue inglês dorminhoca
 
