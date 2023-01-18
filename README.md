@@ -39,9 +39,4 @@
 <p align="left"> <a href="https://www.github.com/RegislaineRegis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <br>
 
-<div align="center">
-  <a href="https://github.com/RegislaineRegis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RegislaineRegis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegislaineRegis&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
 
