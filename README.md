@@ -33,21 +33,25 @@
 <br>
 <br>
 
-<div align="center">
-  <a href="https://github.com/RegislaineRegis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RegislaineRegis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegislaineRegis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <table cellspacing="0" cellpadding="0" style="border: 0px">
+<table cellspacing="0" cellpadding="0" style="border: 0px">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://github.com/RegislaineRegis" rel="noopener noreferrer" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=RegislaineRegis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      </a>
     </td>
-      <a href="https://www.instagram.com/regisreh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href = "mailto:nanafidelis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegislaineRegis&layout=compact&langs_count=7&theme=dracula" />
+      </a>
     </td>
   </tr>
-  </table>
+</table>
+  
+<div align="center">
+      <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://www.instagram.com/regisreh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:nanafidelis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <div>
      
 
