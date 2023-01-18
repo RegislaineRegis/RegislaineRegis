@@ -39,9 +39,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegislaineRegis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  <div>
+  <table cellspacing="0" cellpadding="0" style="border: 0px">
+  <tr>
+    <td>
       <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    </td>
       <a href="https://www.instagram.com/regisreh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href = "mailto:nanafidelis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    </td>
+  </tr>
+  </table>
      
-</div>
+
