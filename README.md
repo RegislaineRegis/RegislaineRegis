@@ -3,7 +3,13 @@
 ## **-- Olá!!!** **Muito Prazer! --** 🤗 🤝
 <br>
 
-# **Me chamo Regislaine Regis**<br>
+# **Me chamo Regislaine Regis**</br>
+<div>
+      <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://www.instagram.com/regisreh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "mailto:nanafidelis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div> </br>
+
  Sou formada em Administração de Empresas pela (Anhanguera), desde de 2020, no final do ano de 2021 eu me aventurei na escola de programação da Trybe e finalizei em Janeiro de 2023, sou uma programadora Jr. 
 - 🌱 Desenvolvedora Web Full stack Jr. - React.js | Javascript | Redux | ContextAPI | Docker | RESTful API | Node.js | MySQL na Trybe | Java | Spring Boot;
 - 📫 Como entrar em contato comigo: nanafidelis@gmail.com;
@@ -47,11 +53,5 @@
     </td>
   </tr>
 </table>
-  
-<div align="center">
-      <a href="https://www.linkedin.com/in/regislaine-regis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href="https://www.instagram.com/regisreh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href = "mailto:nanafidelis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <div>
      
 
