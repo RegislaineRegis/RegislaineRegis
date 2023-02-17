@@ -4,8 +4,8 @@
 <br>
 
 # **Me chamo Regislaine Regis**<br>
- Sou formada em Administração de Empresas pela (Anhanguera), desde de 2020, no final do ano de 2021 me aventurei na escola de programação da Trybe e finalizei agora Janeiro de 2023, sou uma programadora Jr. 
-- 🌱 Desenvolvedora Web Full stack Jr. - React.js | Javascript | Redux | ContextAPI | Docker | RESTful API | Node.js | MySQL na Trybe;
+ Sou formada em Administração de Empresas pela (Anhanguera), desde de 2020, no final do ano de 2021 eu me aventurei na escola de programação da Trybe e finalizei em Janeiro de 2023, sou uma programadora Jr. 
+- 🌱 Desenvolvedora Web Full stack Jr. - React.js | Javascript | Redux | ContextAPI | Docker | RESTful API | Node.js | MySQL na Trybe | Java | Spring Boot;
 - 📫 Como entrar em contato comigo: nanafidelis@gmail.com;
 - ⚡ Curiosidade: Sou apaixonada por café e um animalzinho: Minha unica filha se chama Amora, uma buldogue inglês dorminhoca
 
